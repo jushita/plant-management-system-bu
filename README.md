@@ -1,3 +1,5 @@
+Application built for class CS622: Advanced Programming Techniques part of degree requirement for Masters in Software Development, Boston University
+
 #APAQUA: A Plant Manager
 The project described here is a system that automates the process of watering plants. For plant lovers, it is difficult to remember when, as well as how much, to water a plant. This creates a need for this system to be created. 
 
